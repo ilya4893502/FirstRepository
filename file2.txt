@@ -1,1 +1,2 @@
 Java is greate!
+Some other string
