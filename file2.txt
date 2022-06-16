@@ -1,2 +1,3 @@
 Java is greate!
 Some other string
+Line from user1
