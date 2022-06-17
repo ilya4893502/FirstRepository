@@ -2,3 +2,4 @@ Java is greate!
 Some other string
 Line from user1
 User2
+critical bug fixed
